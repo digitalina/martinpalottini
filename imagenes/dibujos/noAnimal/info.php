@@ -1,0 +1,8 @@
+<?php /*noAnimal*/
+$lang = $_SESSION["LANG"];
+$xmlLang = new XMLParser();
+$xmlLang->openXML("lang/".$lang.".xml");
+
+$title= $xmlLang->getElement("noAnimal").", ".$xmlLang->getElement("lapizsobrepapel");
+$alt=$xmlLang->getElement("noAnimal");
+?>

@@ -1,0 +1,63 @@
+* {margin:0; padding:0; border:0; outline:none}
+body, header, div{display:block}
+html {top:0; right:0; left:0; height:100%; background:url(../imagenes/bgruido.jpg)}
+body {font:100%/1.25 "Rokkitt"; width:100%; padding:0 10%; box-sizing:border-box}
+ul{list-style:none}
+.text-center{text-align:center}
+.text-left{text-align:left}
+.text-right{text-align:right}
+.text-justify{text-align:justify}
+.miti{width:47%}
+.float-right{float:right}
+.float-left{float:left}
+.clear{clear:both}
+#switchlang {margin-top:7%}
+#switchlang li{display:inline-block; margin:0 1%}
+.thumb {border: 4px solid #656565;display: block;float: left; margin: 0.8em;padding: 0;width: 14%; height:6em; overflow:hidden}
+.thumb img {max-width:100%; min-height:100%}
+.lista{float:left; display:block; width:23%; margin-left:3%}
+.lista a{display:block}
+.lista a em, dd{font-size:.80em}
+.lista a em{color:#962304}
+.lista ul, dd{margin-left:6%}
+.lista + section{width:73%; float:right}
+.scroll{margin-top:1em;display:block; overflow:auto; height:30em}
+.activo{color:#962304; border:1px solid #ededed}
+a{text-decoration:none; width:inherit; height:inherit}
+a:link, a:visited{color:#444}
+a:hover, a:focus, a:active, .activo a{color:#962304}
+input, textarea {width:40%; border:1px solid #CCC}
+footer {position:fixed; bottom:0; width:100%; text-align:center}
+/** para el slide header del index **/
+/* HEADER */
+header { height:24em;margin-top:2%}
+.headerimg {display:none; background-position: center; background-repeat: no-repeat; width:100%; height:24em; position:fixed; overflow:hidden; 
+			background-size:cover;-o-background-size:cover; -webkit-background-size:cover; -khtml-background-size:cover; -moz-background-size:cover}
+
+header.cabecera-todas, header.cabecera-todas .headerimg{height:6em}
+header.cabecera-todas #switchlang {margin:0.5%!important}
+/* NAVIGATION */
+#nav-outer{height:6em;top:2em;position:relative; background:rgba(240,240,240,0.4)}
+h1.logo{font-size:220%; padding: 0.1em 0.1em 0.36em 0.82em}
+.menu {margin: 0 0 0 2em; width:80%}
+.menu>li{display:inline-block; position:relative; width:10%; margin: 0 2%}
+.menu li ul {position:absolute; top:20px}
+.menu li:link ul, .menu li:visited ul, .menu li:active ul {display:none} 
+.menu li ul:hover{display:block;} 
+
+/* HEADER TEXT */
+#headertxt {clear: both; margin: 0 auto; position: relative; top: 7.4em; width: 100%}
+#firstline{background:rgba(24,24,24,0.1); color:#333; font-size:2.4em; padding:1% 8%; margin-top:20%}
+/* CONTROLS */
+.btn { height:32px; width:32px; float:left; cursor:pointer}
+#back { background-image:url("../imagenes/btn_back.png") }
+#next { background-image:url("../imagenes/btn_next.png") }
+#control { background-image:url("../imagenes/btn_pause.png")}
+/* HEADER HAVIGATION */
+#headernav-outer {position:absolute;top:46%; left:80%}
+#headernav { /*padding-left:864px; */}
+
+
+
+
+

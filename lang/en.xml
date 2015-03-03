@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<martinpalottini>
+	<!-- MENU PRINCIPAL -->
+		<dibujo>Drawings</dibujo>
+		<pintura>Paintings</pintura>
+		<contactos>Contacts</contactos>
+		<cv>CV</cv>
+		<blog>Blog</blog>
+		<premios>Prizes</premios>
+		<muestras>Exhibitions</muestras>
+		<series>Series</series>
+	<!-- SERIES --> <!-- dibujos -->
+		<lapajadeltrigo>Straw from weat</lapajadeltrigo>
+		<tra-rodchenko>Rodchenko</tra-rodchenko>
+		<pulmonaria>Pulmonaria</pulmonaria>
+		<guampas>Horns</guampas>
+		<elrestoesperdida>Is Lost the rest</elrestoesperdida>
+		<ahoraveniybesamelaboca>Now come here and kiss my mouth</ahoraveniybesamelaboca>
+		<acariciameelpelo>Caress my hair</acariciameelpelo>
+		<trincheraHonor>Trench of honor (Tribute to K.K.)</trincheraHonor>
+		<bandoneonBlindado>Bandone&oacute;n Blindado</bandoneonBlindado>
+		<noAnimal>A draw is not a domestic animal</noAnimal>
+		<retratoSinManos>Portrait without hands</retratoSinManos>
+		<otroLadoTapiz>The other side of the tapestry</otroLadoTapiz>
+	<!-- SERIES --> <!-- pinturas -->
+		<agua>Landscape</agua>
+		<dafne>Dafne</dafne>
+		<castigomediotumano>Punishment gave me your hand</castigomediotumano>
+		<varios>Varios</varios>
+	<!-- TECNICA --> <!-- dibujo-->
+		<lapizsobrepapel>Pencil on paper</lapizsobrepapel>
+		<oleoylapizsobretela>Oil and pencil on canvas</oleoylapizsobretela>
+		<lapizyacuarelasobrepapel>Pencil and watercolor on paper</lapizyacuarelasobrepapel>
+		<lapizypapelsobretela>Pencil and paper on canvas</lapizypapelsobretela>
+	<!-- TECNICA --> <!--pintura-->
+		<oleosobretela>Oil on canvas</oleosobretela>
+		<coleccionparticular>Private colection</coleccionparticular>
+	<!-- CONTACTOS -->
+		<titulocontactos>Contacts</titulocontactos>
+		<nombre>Name</nombre>
+		<email>email</email>
+		<telefono>Telephone</telefono>
+		<telefonoestudio>Studio telephone</telefonoestudio>
+		<mensaje>Message</mensaje>
+		<enviar>Submit</enviar>
+		<mensajeenvio>Thanks%20for%20contacting%20me%20I%20will%20respond%20as%20soon%20as%20possible.</mensajeenvio>
+			<!-- CABECERA BIOGRAFIA -->
+		<bio> Martin Palottini, born in Buenos Aires, Argentina, August 4th, 1981.<br/>
+					Maestro Nacional de Dibujo Escuela Nacional Manuel Belgrano (1995-2001).<br/>                                           
+					Profesor Nacional de Artes Plasticas, Isfa.
+		</bio>
+	<!-- MUESTRAS -->		
+		<contenidomuestras>
+			<dl>
+				<dt>2014</dt>
+				 	<dd>Individual exhibition Artemio gallery, Tandil, Argentina.</dd>
+				<dt>2013</dt>
+					<dd>Collective exhibition Argentinean Contemporary Figurativism. La Caixa, Brasilia, Brasil.<br/>
+							Individual exhibition Five works Conmemorative Banco Central de La Rep&uacute;blica Argentina.<br/>
+							Collective Artemisa Gallery, NY, Estados Unidos.<br/>
+							Collective Blackheath Gallery, Londres, Inglaterra.<br/>
+							Collective Artemio Gallery, Tandil, Argentina.
+					</dd>
+				<dt>2012</dt>
+					<dd>Individual “Trench of honor”, Galeria Mundo Nuevo, Buenos Aires.</dd>
+				<dt>2011</dt>
+					<dd>KIAF Feria de arte, Se&uacute;l, Corea. Mundo Nuevo Gallery.<br/>
+							Together with Ariel de la Vega and Sebastian Chillemi, Mundo Nuevo Gallery.<br/>
+							Individual Exhibition Museo de Bellas Artes de Tandil.<br/>
+							Collective exhibition together with Alex Canevsky, Willy Verginer, etc. Barbara Frigerio Contemporary Art Gallery, Milan, Italia.<br/>
+							Auction Eduardo S&iacute;vori Museum</dd>
+				<dt>2010</dt>
+					<dd>Auction Eduardo S&iacute;vori Museum<br/>
+							Collective exhibition with international masters Palazzo Taverna, Roma, Italia.<br/>
+							Collective exhibition with National masters Quinta Trabuco.<br/>
+							Collective Arte en Movimiento.<br/>
+							Collective Mundo Nuevo Gallery.</dd>
+			<dt>2009:</dt>
+				 <dd>Collective exhibition, Arte en Movimiento.<br/>
+				 Collective ehibition and auction. Sivori Museum.<dd>
+			<dt>2008:</dt>
+				<dd>Individual exhibition, Dharma Fine Arts gallery.<br/>
+				 Collective exhibition with masters drawers, Encontre gallery.<br/>
+				 Jointly exhibition with Santiago G. Pillotto, Encontre gallery.<br/>
+				 Collective exhibition, Diotima gallery.</dd>
+			<dt>2007:</dt>
+				 <dd>Jointly exhibition with Matteo Pugliese, Noordeinde gallery, La Hague.</dd>
+			<dt>2005:</dt>
+				 <dd>Collective exhibition, Arte Fiera Bologna, Forni gallery.<br/>
+				 Individual ehibition, Consorcio de Arte gallery.</dd>
+			<dt>2004:</dt>
+				<dd>Collective exhibition with masters drawers, Consorcio de Arte gallery.</dd>
+			</dl>
+		</contenidomuestras>
+	<!-- PREMIOS -->				
+		<contenidopremios>
+			<dl>
+				<dt>2013</dt>
+					<dd>Selected Sal&oacute;n Nacional de Dibujo Palacio Nacional de las Artes.</dd>
+				<dt>2012</dt>
+					<dd>Selected Sal&oacute;n Municipal de Dibujo Manuel Belgrano, Museo E. S&iacute;vori.<br/>
+          		Selected Sal&oacute;n Nacional de Dibujo Palacio Nacional de las Artes.</dd>
+				<dt>2011</dt>
+					<dd>Prize Artist below 30 yo Paintings Bienal small format Quinta Trabuco.<br/>
+		          Selected Sal&oacute;n Municipal de Dibujo Manuel Belgrano, Museo E. S&iacute;vori.<br/>
+    		      Selected Sal&oacute;n Nacional de Dibujo Palacio Nacional de las Artes.</dd>
+				<dt>2010</dt>
+					<dd>Selected Sal&oacute;n Municipal de Dibujo Manuel Belgrano, Museo E. S&iacute;vori.</dd>
+				<dt>2009:</dt>
+				 <dd>Selected,  drawing. Municipal Exhibition Room.<br />
+					  Selected,  drawing. National Exhibition Room.</dd>
+				<dt>2008:</dt>
+				  <dd> Second Prize,  drawing. National Exhibition Room.<br />
+					   Third Prize,  Drawing. Municipal Ehibition Room.<br />
+					   Third Prize, Drawing. Quinta Trabuco  Ehibition Room.<br />
+					   Third Prize,  Drawing. Faber Castell Award.</dd>
+				<dt>2007:</dt>
+				  <dd> Mention,  Drawing. Municipal Exhibition Room.<br />
+					   Second  Prize, drawing. National award, Guaman Poma Museum.<br />
+					   Special Mention,  painting. National award, Lujan Museum.<br />
+					   First  Mention, painting. Alba award.<br />
+					   First  Mention, Drawing. National award, Azul Museum.<br />
+					   Special  Mention, drawing. Faber Castell award.</dd>
+				  <dt>2006:</dt>
+					<dd>Selected, drawing. National Exhibition Room.<br />
+						Third Prize, drawing. Faber Castell award.<br />
+						First  Mention, drawing. National award, Guaman Poma Museum.<br />
+						Selected, drawing. Municipal Exhibition Room.</dd>
+				  <dt>2005:</dt>
+					<dd>Selected, drawing. Municipal Ehibition Room.</dd>
+			</dl>   
+		</contenidopremios>
+		<contenidocolecciones>
+			<dl>
+				<dt>Collections</dt>
+					<dd>Public: Museo de grabado y dibujo Artemio Alisio, Museo de Bellas Artes Eduardo Sivori, Museo de Bellas Artes de Tandil Mumbat, Colecci&oacute;n Ministerio de 			Seguridad, Banco Central de la República Argentina.<br/>
+Numerous private colections, nationals and foreigns.</dd>
+		</contenidocolecciones>
+</martinpalottini>
