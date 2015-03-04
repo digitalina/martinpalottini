@@ -26,8 +26,7 @@
   	<title>Mart&iacute;n Palottini - dibujos y pinturas</title>
   	<meta name="keywords" content="Martín, Palottini, dibujos, pinturas, drawings, paintings, Buenos Aires, Argentina" />
   	<meta name="verify-v1" content="pAkjKY/PQL7tPCzW3N5ipYbP6R55j08mIVbaF/OAPdY=" />
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>  
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script> 
     <script type="text/javascript" src="js/jquery.lightbox.js"></script>
     <script type="text/javascript">
 		$(document).ready(function(){
@@ -72,11 +71,6 @@
     <footer> 
         <small class="text-center">Todas las obras expuestas  &copy; Martín Palottini 2008 / 2011:: <a href="http://palottini.blogspot.com" rel="external">siga mi blog</a> :: webdesign: 
         <a href="javascript:void(0);" onclick="window.open('http://www.digitalinaweb.com.ar')">digitalinaweb.com.ar</a></small>
-    </footer>    
- <script>
-	//$('.toggle').click(function(){
-    //	$(this).siblings('ul').toggle('fast');
-	//});
-</script>	
+    </footer>
   </body>
 </html>

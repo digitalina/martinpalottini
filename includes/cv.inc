@@ -1,6 +1,5 @@
 <?php
 	include('includes/head.inc'); 
-	include('includes/navegacion.inc'); 
 ?>
 <section class="scroll clear">
 <h3><?php echo $xmlLang->getElement("cv") ?></h3>
