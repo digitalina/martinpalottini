@@ -3,7 +3,7 @@
 	{
 		include('includes/'.$_GET['contenido'].'.inc');
 	}else{
-		include('includes/chooselang.inc'); 
-		$_GET['contenido'] = 'chooselang';
+		include('includes/dibujos.inc'); 
+		$_GET['contenido'] = 'dibujos'.$_REQUEST["dirname"]=="pulmonaria" ;
 	}
 ?>

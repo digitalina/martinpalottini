@@ -2,7 +2,7 @@
 	include('includes/head.inc'); 
 	include('includes/navegacion.inc'); 
 ?>
-<section>
+<section class="clear">
 <h3><?php echo $xmlLang->getElement("contactos") ?></h3>
 	<form id="form1" method="post" action="http://www.martinpalottini.com.ar/cgi-sys/formmail.cgi">	  
 	<fieldset>

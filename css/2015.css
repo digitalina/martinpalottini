@@ -1,7 +1,7 @@
 * {margin:0; padding:0; border:0; outline:none}
 body, header, div{display:block}
 html {top:0; right:0; left:0; height:100%; background:url(../imagenes/bgruido.jpg)}
-body {font:100%/1.25 "Rokkitt"; width:100%; padding:0 10%; box-sizing:border-box}
+body {font:100%/1.25 "Rokkitt"; width:100%; padding:0 5%; box-sizing:border-box}
 ul{list-style:none}
 .text-center{text-align:center}
 .text-left{text-align:left}
@@ -40,10 +40,10 @@ header.cabecera-todas #switchlang {margin:0.5%!important}
 #nav-outer{height:6em;top:2em;position:relative; background:rgba(240,240,240,0.4)}
 h1.logo{font-size:220%; padding: 0.1em 0.1em 0.36em 0.82em}
 .menu {margin: 0 0 0 2em; width:80%}
-.menu>li{display:inline-block; position:relative; width:10%; margin: 0 2%}
+.menu>li{display:inline-block; position:relative; width:10%; margin: 0 2%; background:red}
 .menu li ul {position:absolute; top:20px}
-.menu li:link ul, .menu li:visited ul, .menu li:active ul {display:none} 
-.menu li ul:hover{display:block;} 
+.menu li ul {display:none} 
+.menu li:hover ul{display:block} 
 
 /* HEADER TEXT */
 #headertxt {clear: both; margin: 0 auto; position: relative; top: 7.4em; width: 100%}

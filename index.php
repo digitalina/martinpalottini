@@ -74,9 +74,9 @@
         <a href="javascript:void(0);" onclick="window.open('http://www.digitalinaweb.com.ar')">digitalinaweb.com.ar</a></small>
     </footer>    
  <script>
-//	$('.toggle').click(function(){
-//    	$(this).siblings('ul').toggle('fast');
-//	});
+	//$('.toggle').click(function(){
+    //	$(this).siblings('ul').toggle('fast');
+	//});
 </script>	
   </body>
 </html>
