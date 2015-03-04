@@ -1,6 +1,6 @@
 <ul class="menu float-right">
-	<li><a href="#" class="toggle"><?php echo $xmlLang->getElement("dibujo") ?></a>
-		<ul style="display:<?php if($_REQUEST["contenido"]=="dibujos"){?>none<?php }else{ ?>none<?php }?>" >
+	<li><a href="#" ><?php echo $xmlLang->getElement("dibujo") ?></a>
+		<ul>
 			<li><em><?php echo $xmlLang->getElement("series") ?></em></li>
 			<li class="<?php if($_REQUEST["dirname"]=="seis"){?>activo<?php } ?>">
 				<a href="index.php?contenido=dibujos&dirname=seis"><?php echo $xmlLang->getElement("lapajadeltrigo") ?> </a>
@@ -31,8 +31,8 @@
 			</li>
 		</ul>
 	</li>
-	<li><a href="#" class="toggle"><?php echo $xmlLang->getElement("pintura") ?></a>
-		<ul style="display:<?php if($_REQUEST["contenido"]=="pinturas"){?>block<?php }else{ ?>none<?php }?>" >
+	<li><a href="#"><?php echo $xmlLang->getElement("pintura") ?></a>
+		<ul>
 			<li><em><?php echo $xmlLang->getElement("series") ?></em></li>
 			<li class="<?php if($_REQUEST["dirname"]=="agua"){?>activo<?php } ?>">
 				<a href="index.php?contenido=pinturas&dirname=agua"><?php echo $xmlLang->getElement("agua") ?> </a>

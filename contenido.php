@@ -1,9 +1,9 @@
 <?php
-	if(isset($_GET['contenido']))
-	{
-		include('includes/'.$_GET['contenido'].'.inc');
-	}else{
-		include('includes/chooselang.inc'); 
-		$_GET['contenido'] = 'chooselang';
-	}
+       if (isset($_GET['contenido']) && $_GET['contenido'] !== '') {
+               include('includes/'.$_GET['contenido'].'.inc');
+       } else {
+               $_GET['contenido'] = 'dibujos';
+               $_REQUEST['dirname'] = 'seis';
+               include('includes/dibujos.inc'); 
+       }
 ?>

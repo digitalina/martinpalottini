@@ -1,8 +1,7 @@
 <?php
 	include('includes/head.inc'); 
-	include('includes/navegacion.inc'); 
 ?>
-<section class="scroll">
+<section class="scroll clear">
 <h3><?php echo $xmlLang->getElement("cv") ?></h3>
 	<p>
 		<?php echo $xmlLang->getElement("bio") ?>
