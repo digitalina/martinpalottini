@@ -5,7 +5,7 @@
              <h1 class="logo">Martín Palottini</h1>
              <nav class="menu">
 							 <li class="<?php if($_REQUEST["dirname"]=="dibujos"){?>activo<?php } ?>">
-								<a href="?contenido=dibujos&amp;dirname=seis"><?php echo $xmlLang->getElement("dibujo") ?></a>
+								<a href="?contenido=dibujos&amp;dirname=otroLadoTapiz"><?php echo $xmlLang->getElement("dibujo") ?></a>
 							</li>
 							 <li class="<?php if($_REQUEST["dirname"]=="pinturas"){?>activo<?php } ?>">
 								<a href="?contenido=pinturas&amp;dirname=cinco"><?php echo $xmlLang->getElement("pintura") ?></a>

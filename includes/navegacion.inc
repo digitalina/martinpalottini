@@ -2,6 +2,9 @@
 	<li><a href="#" ><?php echo $xmlLang->getElement("dibujo") ?></a>
 		<ul>
 			<li><em><?php echo $xmlLang->getElement("series") ?></em></li>
+			<li class="<?php if($_REQUEST["dirname"]=="otroLadoTapiz"){?>activo<?php } ?>">
+				<a href="index.php?contenido=dibujos&dirname=otroLadoTapiz"><?php echo $xmlLang->getElement("otroLadoTapiz") ?></a>
+			</li>
 			<li class="<?php if($_REQUEST["dirname"]=="seis"){?>activo<?php } ?>">
 				<a href="index.php?contenido=dibujos&dirname=seis"><?php echo $xmlLang->getElement("lapajadeltrigo") ?> </a>
 			</li> 
@@ -10,12 +13,6 @@
 			</li>
 			<li class="<?php if($_REQUEST["dirname"]=="pulmonaria"){?>activo<?php } ?>">
 				<a href="index.php?contenido=dibujos&dirname=pulmonaria"><?php echo $xmlLang->getElement("pulmonaria") ?></em></a>
-			</li>
-			<li class="<?php if($_REQUEST["dirname"]=="bandoneonBlindado"){?>activo<?php } ?>">
-				<a href="index.php?contenido=dibujos&dirname=bandoneonBlindado"><?php echo $xmlLang->getElement("bandoneonBlindado") ?> </a>
-			</li>
-			<li class="<?php if($_REQUEST["dirname"]=="cinco"){?>activo<?php } ?>">
-				<a href="index.php?contenido=dibujos&dirname=cinco"><?php echo $xmlLang->getElement("ahoraveniybesamelaboca") ?> </a>
 			</li>
 			<li class="<?php if($_REQUEST["dirname"]=="trincheraHonor"){?>activo<?php } ?>">
 				<a href="index.php?contenido=dibujos&dirname=trincheraHonor"><?php echo $xmlLang->getElement("trincheraHonor") ?></a>
@@ -26,8 +23,11 @@
 			<li class="<?php if($_REQUEST["dirname"]=="noAnimal"){?>activo<?php } ?>">
 				<a href="index.php?contenido=dibujos&dirname=noAnimal"><?php echo $xmlLang->getElement("noAnimal") ?></a>
 			</li>
-			<li class="<?php if($_REQUEST["dirname"]=="otroLadoTapiz"){?>activo<?php } ?>">
-				<a href="index.php?contenido=dibujos&dirname=otroLadoTapiz"><?php echo $xmlLang->getElement("otroLadoTapiz") ?></a>
+			<li class="<?php if($_REQUEST["dirname"]=="comoMatarlos"){?>activo<?php } ?>">
+				<a href="index.php?contenido=dibujos&dirname=comoMatarlos"><?php echo $xmlLang->getElement("comoMatarlos") ?></a>
+			</li>
+			<li class="<?php if($_REQUEST["dirname"]=="paisajeMudo"){?>activo<?php } ?>">
+				<a href="index.php?contenido=dibujos&dirname=paisajeMudo"><?php echo $xmlLang->getElement("paisajeMudo") ?></a>
 			</li>
 		</ul>
 	</li>
@@ -39,9 +39,6 @@
 			</li>
 			<li class="<?php if($_REQUEST["dirname"]=="uno"){?>activo<?php } ?>">
 				<a href="index.php?contenido=pinturas&dirname=uno"><?php echo $xmlLang->getElement("dafne") ?> </a>
-			</li>
-			<li class="<?php if($_REQUEST["dirname"]=="dos"){?>activo<?php } ?>">
-				<a href="index.php?contenido=pinturas&dirname=dos"><?php echo $xmlLang->getElement("castigomediotumano") ?></a>
 			</li>
 		</ul>
 	</li>
