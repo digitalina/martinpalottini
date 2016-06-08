@@ -22,6 +22,13 @@
 		<noAnimal>A draw is not a domestic animal</noAnimal>
 		<retratoSinManos>Portrait without hands</retratoSinManos>
 		<otroLadoTapiz>The other side of the tapestry</otroLadoTapiz>
+		<comoMatarlos>How to kill them?</comoMatarlos>
+		<paisajeMudo>Mute landscape</paisajeMudo>
+		<cuarentaEscudos>Forthy shields</cuarentaEscudos>
+		<lamanoizquierda>The left hand</lamanoizquierda>
+		<paisajeconflores>Landscape with flowers</paisajeconflores>
+		<munioz>Mu&ntilde;oz</munioz>
+		<volcan>Volcano</volcan>
 	<!-- SERIES --> <!-- pinturas -->
 		<agua>Landscape</agua>
 		<dafne>Dafne</dafne>
@@ -32,6 +39,11 @@
 		<oleoylapizsobretela>Oil and pencil on canvas</oleoylapizsobretela>
 		<lapizyacuarelasobrepapel>Pencil and watercolor on paper</lapizyacuarelasobrepapel>
 		<lapizypapelsobretela>Pencil and paper on canvas</lapizypapelsobretela>
+		<lapizyacrilicosobrepapel>Pencil and acrilic on paper</lapizyacrilicosobrepapel>
+		<lapizycobrealahojasobrepapel>Pencil and copper leaf on paper</lapizycobrealahojasobrepapel>
+		<lapizypapelsobrepapel>Pencil and paper on paper</lapizypapelsobrepapel>
+		<lapizbordaycobreydoradoalahojasobrepapel>Pencil, embroidery, copper and gold leaf on paper</lapizbordaycobreydoradoalahojasobrepapel>
+		<lapizybordadosobrepapel>Pencil and embroidery on paper</lapizybordadosobrepapel>
 	<!-- TECNICA --> <!--pintura-->
 		<oleosobretela>Oil on canvas</oleosobretela>
 		<coleccionparticular>Private colection</coleccionparticular>
@@ -53,7 +65,11 @@
 		<contenidomuestras>
 			<dl>
 				<dt>2015</dt>
-				 	<dd>Exhibition together with Julio Alan Lepez at the Consulate General of Argentina in New York, USA.</dd>
+				 	<dd>Exhibition together with Julio Alan Lepez at the Consulate General of Argentina in New York, USA.<br/>
+				 		Individual Feria Arte Espacio.<br/>
+				 		Feria Casa Foa.<br/>
+						Feria Eggo.
+				 	</dd>
 				<dt>2014</dt>
 				 	<dd>Individual exhibition Artemio gallery, Tandil, Argentina.</dd>
 				<dt>2013</dt>
@@ -97,6 +113,8 @@
 	<!-- PREMIOS -->				
 		<contenidopremios>
 			<dl>
+				<dt>2015</dt>
+					<dd>1st. prize Akian Grafica Editora 2015 Contest.</dd>
 				<dt>2013</dt>
 					<dd>Selected Sal&oacute;n Nacional de Dibujo Palacio Nacional de las Artes.</dd>
 				<dt>2012</dt>
