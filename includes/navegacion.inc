@@ -23,6 +23,12 @@
 			<li class="<?php if($_REQUEST["dirname"]=="noAnimal"){?>activo<?php } ?>">
 				<a href="index.php?contenido=dibujos&dirname=noAnimal"><?php echo $xmlLang->getElement("noAnimal") ?></a>
 			</li>
+			<li class="<?php if($_REQUEST["dirname"]=="comoMatarlos"){?>activo<?php } ?>">
+				<a href="index.php?contenido=dibujos&dirname=comoMatarlos"><?php echo $xmlLang->getElement("comoMatarlos") ?></a>
+			</li>
+			<li class="<?php if($_REQUEST["dirname"]=="paisajeMudo"){?>activo<?php } ?>">
+				<a href="index.php?contenido=dibujos&dirname=paisajeMudo"><?php echo $xmlLang->getElement("paisajeMudo") ?></a>
+			</li>
 		</ul>
 	</li>
 	<li><a href="#"><?php echo $xmlLang->getElement("pintura") ?></a>
