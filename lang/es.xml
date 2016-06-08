@@ -22,6 +22,13 @@
 		<noAnimal>El dibujo no es un animal dom&eacute;stico</noAnimal>
 		<retratoSinManos>Retrato sin manos</retratoSinManos> 
 		<otroLadoTapiz>El otro lado del tapiz</otroLadoTapiz>
+		<comoMatarlos>C&oacute;mo Matarlos?</comoMatarlos>
+		<paisajeMudo>Paisaje Mudo</paisajeMudo>
+		<cuarentaEscudos>Cuarenta Escudos</cuarentaEscudos>
+		<lamanoizquierda>La mano izquierda</lamanoizquierda>
+		<paisajeconflores>Paisaje con flores</paisajeconflores>
+		<munioz>Mu&ntilde;oz</munioz>
+		<volcan>Volc&aacute;n</volcan>
 	<!-- SERIES --> <!-- pinturas -->
 		<agua>Paisaje</agua>
 		<dafne>Dafne</dafne>
@@ -32,6 +39,13 @@
 		<oleoylapizsobretela>Oleo y l&aacute;piz sobre tela</oleoylapizsobretela>
 		<lapizyacuarelasobrepapel>L&aacute;piz y acuarela sobre papel</lapizyacuarelasobrepapel>
 		<lapizypapelsobretela>L&aacute;piz y papel sobre tela</lapizypapelsobretela>
+		<lapizyacrilicosobrepapel>L&aacute;piz y acr&iacute;lico sobre papel</lapizyacrilicosobrepapel>
+		<lapizycobrealahojasobrepapel>L&aacute;piz y cobre a la hoja sobre papel</lapizycobrealahojasobrepapel>
+		<lapizypapelsobrepapel>L&aacute;piz y papel sobre papel</lapizypapelsobrepapel>
+		<lapizbordaycobreydoradoalahojasobrepapel>L&aacute;piz, bordado, cobre y dorado a la hoja sobre papel</lapizbordaycobreydoradoalahojasobrepapel>
+		<lapizybordadosobrepapel>L&aacute;piz y bordado sobre papel</lapizybordadosobrepapel>
+
+
 	<!-- TECNICA --> <!--pintura-->
 		<oleosobretela>Oleo sobre tela</oleosobretela>
 		<coleccionparticular>Colecci&oacute;n Particular</coleccionparticular>
@@ -52,8 +66,14 @@
 	<!-- MUESTRAS -->				
 		<contenidomuestras>
 			<dl>
+				<dt>2016</dt>
+					<dd>Individual “Paisaje Mudo”, Galeria Mundo Nuevo, Buenos Aires.</dd>
 				<dt>2015</dt>
-				 	<dd>Exhibici&oacute;n compartida con Julio Alan Lepez en el Consulado General de Argentina en New York, USA.</dd>
+				 	<dd>Exhibici&oacute;n compartida con Julio Alan Lepez en el Consulado General de Argentina en New York, USA.<br/>
+				 		Individual Feria Arte Espacio.<br/>
+				 		Feria Casa Foa.<br/>
+						Feria Eggo.
+				 	</dd>
 				<dt>2014</dt>
 				 	<dd>Individual Galer&iacute;a Artemio, Tandil, Argentina.</dd>
 				<dt>2013</dt>
@@ -100,6 +120,8 @@
 	<!-- PREMIOS-->
 		<contenidopremios>
 			<dl>
+				<dt>2015</dt>
+					<dd>1° Premio Concurso Akian Grafica Editora 2015.</dd>
 				<dt>2013</dt>
 					<dd>Seleccionado Sal&oacute;n Nacional de Dibujo Palacio Nacional de las Artes.</dd>
 				<dt>2012</dt>
