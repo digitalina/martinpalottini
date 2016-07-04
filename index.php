@@ -69,8 +69,8 @@
         <?php include('contenido.php'); ?>
     <!-- hasta aca va el include de contenido-->
     <footer> 
-        <small class="text-center">Todas las obras expuestas  &copy; Martín Palottini 2008 / 2011:: <a href="http://palottini.blogspot.com" rel="external">siga mi blog</a> :: webdesign: 
-        <a href="javascript:void(0);" onclick="window.open('http://www.digitalinaweb.com.ar')">digitalinaweb.com.ar</a></small>
+        <small class="text-center">Todas las obras expuestas  &copy; Martín Palottini 2008 / 2016:: <a href="http://palottini.blogspot.com" rel="external">siga mi blog</a> :: webdesign: 
+        <a href="javascript:void(0);" onclick="window.open('http://www.charcoaldesigns.com.ar')">charcoaldesigns.com.ar</a></small>
     </footer>
   </body>
 </html>

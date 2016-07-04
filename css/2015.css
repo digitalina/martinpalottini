@@ -1,5 +1,5 @@
 * {margin:0; padding:0; border:0; outline:none}
-body, header, div{display:block}
+body, header, div,i{display:block}
 html {top:0; right:0; left:0; height:100%; background:url(../imagenes/bgruido.jpg)}
 body {font:100%/1.25 "Rokkitt"; width:100%; padding:0 5%; box-sizing:border-box}
 ul{list-style:none}
@@ -33,16 +33,28 @@ footer {position:fixed; bottom:0; width:100%; text-align:center}
 header { height:24em;margin-top:2%}
 header.cabecera-todas, header.cabecera-todas .headerimg{height:6em}
 header.cabecera-todas #switchlang {margin:0.5%!important}
+#headerimg1 {background-image: url(../imagenes/2016/otroLadoTapiz/inicio.jpg); 
+			 background-position: center; background-repeat: no-repeat; width:100%; height:40em; margin: -5%; 
+			 position:fixed; overflow:hidden; 
+			background-size:cover;-o-background-size:cover; -webkit-background-size:cover; 
+			-khtml-background-size:cover; -moz-background-size:cover}
 /* NAVIGATION */
 #nav-outer{height:6em;top:2em;position:relative; background:rgba(240,240,240,0.4)}
 h1.logo{font-size:220%; padding: 0.1em 0.1em 0.36em 0.2em}
 .menu {margin: 0 2em; width:80%; text-align:right}
 .menu>li{display:inline-block; position:relative; width:10%; margin: 0 2%; text-align:left; font-size:120%}
-.menu li ul {position:absolute; top:20px}
-.menu li ul {display:none} 
-.menu li:hover ul{display:block;left:-10px; width:250px; background:rgba(240,240,240,0.7);} 
+.menu>li>ul {position:absolute; top:20px}
+.menu>li:hover>ul{width:250px; background:rgba(240,240,240,0.7)}
+.menu li ul, .menu li li li{display:none} 
+.menu li:hover ul, .menu li li:hover li{display:block;left:-10px}
 .menu ul li {padding:0 10px}
 header+section{margin-bottom:30px}
+/*TEXTOS*/
+.textos {width:80% text-align:justify-all;margin: 0 10% 10%;}
+.textos div{margin: 10% 0 0}
+.textos div p, .textos div ol {font-family: helvetica; font-size: .82em}
+.textos i {padding-bottom:1.2%}
+.textos ol {padding-left:5%}
 
 
 
